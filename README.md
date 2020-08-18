@@ -10,5 +10,6 @@ It will automatically update at the top of the hour so it stays updated
 It will record each event you are working on automatically at the top of each hour so
 You don't lose the event you are working on at that time.
 
+https://sendymederos.github.io/A-Simple-Calendar/
 
 ![Work Day Planner](./assets/picts/A_Simple_Day_Scheduler.png)
