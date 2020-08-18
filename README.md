@@ -11,4 +11,4 @@ It will record each event you are working on automatically at the top of each ho
 You don't lose the event you are working on at that time.
 
 
-![Work Day Planner](./assets/img/A_Simple_Day_Scheduler)
+![Work Day Planner](./assets/picts/A_Simple_Day_Scheduler.png)
