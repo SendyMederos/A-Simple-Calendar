@@ -1,7 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 This a daily planner to keep track of your to-dos
-```
+``
 It renders the current day at the top of the page and
 It displays a timeblocks for the standard business hours
 Each timeblock its color coded to indicate whether each hour has past or not, or if we are within that hour 
